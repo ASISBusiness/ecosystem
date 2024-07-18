@@ -31,7 +31,7 @@
     "tailwind-merge": "^2.1.0",
     "tailwindcss-animate": "^1.0.7",
     "viem": "2.0.3",
-    "wagmi": "2.0.3"
+    "wagmi": "2.11.1"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
