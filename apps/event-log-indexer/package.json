@@ -13,8 +13,8 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
-    "@ponder/core": "^0.2.4",
-    "viem": "^1.19.9"
+    "@ponder/core": "^0.4.0",
+    "viem": "^2.15.1"
   },
   "devDependencies": {
     "@types/node": "^20.10.0",
