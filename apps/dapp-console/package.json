@@ -16,7 +16,7 @@
     "@eth-optimism/ui-components": "workspace:*",
     "@growthbook/growthbook-react": "^0.24.0",
     "@hookform/resolvers": "^3.3.4",
-    "@privy-io/react-auth": "^1.59.5",
+    "@privy-io/react-auth": "^2.0.0",
     "@remixicon/react": "^4.1.1",
     "@sentry/nextjs": "^7.106.0",
     "@tanstack/react-query": "^4",
