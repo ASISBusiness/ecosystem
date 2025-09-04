@@ -17,7 +17,7 @@
   "typings": "./src/index.d.ts",
   "generators": "./generators.json",
   "devDependencies": {
-    "tsup": "^8.0.1",
+    "tsup": "^8.3.5",
     "typescript": "^5.2.2"
   }
 }
