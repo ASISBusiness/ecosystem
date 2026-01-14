@@ -22,7 +22,7 @@
     "prettier": "^3.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "tsup": "^8.0.1"
+    "tsup": "^8.5.1"
   },
   "devDependencies": {
     "@eth-optimism/superchain-registry": "github:ethereum-optimism/superchain-registry#0496fcd6ee4e36f2bedd3e4fbffa9146b10219af",
