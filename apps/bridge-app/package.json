@@ -17,7 +17,7 @@
     "@eth-optimism/op-app": "workspace:*",
     "@eth-optimism/tokenlist": "^9.0.12",
     "@eth-optimism/ui-components": "workspace:*",
-    "@rainbow-me/rainbowkit": "2.0.0-beta.1",
+    "@rainbow-me/rainbowkit": "2.0.0",
     "@remixicon/react": "^4.1.1",
     "@tanstack/react-query": "^5.29.2",
     "clsx": "^2.0.0",
@@ -26,12 +26,12 @@
     "prettier": "^3.1.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router": "^6.20.1",
-    "react-router-dom": "^6.20.1",
+    "react-router": "^6.30.3",
+    "react-router-dom": "^6.30.3",
     "tailwind-merge": "^2.1.0",
     "tailwindcss-animate": "^1.0.7",
     "viem": "2.0.3",
-    "wagmi": "2.0.3"
+    "wagmi": "3.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.37",
